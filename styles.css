@@ -1,0 +1,34 @@
+body {
+	background-color: #461E13
+}
+
+h1 {
+	
+	font-size: 60px;
+	font-family: lato;
+	color: #FFFFFF;
+}
+h2 {
+	color: #FFFFFF;
+}
+.logo {
+	padding-top: 300px;
+	padding-right: 400px;
+	float: right;
+}
+a {
+	text-decoration: none;
+	color: #C2C7C4;
+	position: center;
+
+}
+a:hover {
+	color: #92C7C7;
+}
+.icons {
+	position: center;
+	padding-left: 40px;
+	padding-top: 20px;
+	font-size: 30px; 
+	color: #FFFFFF;
+}
